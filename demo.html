@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<title></title>
+
+	<link rel="stylesheet" href="css/normalize.css">
+
+	<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+	<canvas class="canvas"></canvas>
+
+
+	<div class="ui">
+		<input class="ui-input" type="text" />
+	</div>
+
+	<script src="js/jquery.js"></script>
+
+	<script src="js/splashText.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.canvas').splashText({
+				text:'red|splash',
+				fontPer:0.4,
+				color:'#FF1CAE',
+				spaces:3000,
+				removeInput:true,
+				loop:true
+			});
+		})
+	</script>
+</body>
+</html>
