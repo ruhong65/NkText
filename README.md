@@ -1,4 +1,4 @@
-# Nktext
+# NkText
 it's a plug that uses jquery& canvas. it can help you transform a normal text into particle, at the same time, it also provides different data for arrangement
 
 # How to use
