@@ -1,5 +1,5 @@
 /*
-File name: Nktext
+File name: NkText
 Author:Red
 Version:1.0
 Date: 2016-01-22
