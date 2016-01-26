@@ -12,7 +12,8 @@ To get started, download the plugin, unzip it and copy files to your website/app
 	    </head>
 
 Create your canvas add a class:
-        <canvas class="canvas"></canvas>
+
+	<canvas class="canvas"></canvas>
 
 Initialise the script like this:
 
