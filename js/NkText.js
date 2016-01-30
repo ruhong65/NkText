@@ -9,7 +9,7 @@ Date: 2016-01-22
   var defaults = {
     tag : '.canvas',
     text : '1|2|3|4||',
-    color:'250,128,0',
+    color:'#00000',
     fontSize:'500',
     fontPer:0.45,
     spaces:2000,
